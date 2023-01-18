@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1674075820,
+      "filename": "Arrow-v13.0-alioth-MiPa-20230118-VANILLA.zip",
+      "id": "1f261c2166cb55e703b611a581184225f078bdd90c09aadf29f49ff519155fea",
+      "romtype": "MiPa",
+      "zip_type": "VANILLA",
+      "size": 1116646954,
+      "url": "https://sourceforge.net/projects/mipa-project/files/arrow-mipa/arrow-13.0/alioth/Arrow-v13.0-alioth-MiPa-20230118-VANILLA.zip/download",
+      "version": "arrow-13.0"
+    }
+  ]
+}
