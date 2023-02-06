@@ -1,3 +1,23 @@
+2023-02-06:
+
+- FrameworksResOverlay: Reconfigure power profile configuration
+- libstagefright: Build softomx and foundation versions
+- Import additionally libcdsprpc_system libs
+- Import missing audio libs
+- Import QTI Mediacodecs 
+- rro_overlays: Update status bar and rounded corners for T
+- Misc fixes and upstream changes.
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- Fixed camera recording lag's/shutter's
+- [SQUASH] binder: Revert some upstreams from android-4.19-stable
+- thermal: cpu_cooling: Fix cpu limits set current frequency
+- drivers: drm: drm_match_cea_mode always return 0
+- Misc fixes and upstream changes.
+
+____________________________________________________________________________________________________
+
 2023-01-18:
 
 - Introduced OTA
