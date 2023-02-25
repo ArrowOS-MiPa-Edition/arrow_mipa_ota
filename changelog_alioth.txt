@@ -1,3 +1,23 @@
+2023-02-25:
+
+- parts: General improve HBM code
+- Build missing C2 media codecs
+- props: Enable more Codec2.0 components by default
+- sepolicy: Address selinux denials
+- rootdir: Enable suspend to RAM
+- audio: Remove FM Tuner Leftovers
+- audio: Drop Max Open Count & Max Active Count
+- Compile audio alsa extensions packages
+- Enable audio adsprpcd daemon
+- Misc fixes and upstream changes.
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- binder: Revert implement BINDER_FREEZE ioctl
+- Misc fixes and upstream changes.
+
+____________________________________________________________________________________________________
+
 2023-02-06:
 
 - FrameworksResOverlay: Reconfigure power profile configuration
