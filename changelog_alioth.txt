@@ -1,3 +1,27 @@
+2023-03-11:
+
+- audio: Add Stereo config channel support to usb surround sound
+- audio: Remove dynamic attributes from APS config
+- audio: set valid and supported channel mask for earpiece
+- audio: Increase volume for speaker and headphones
+- props: Set media volume steps to 15
+- Use default lmk strategy
+- FrameworksResOverlay: Enable SA and NSA mode's of 5G NR
+- CarrierConfigOverlay: Only allow 5G SA on Jio
+- FrameworksResOverlay: Move onDrawn callback earlier
+- rro_overlays: Switch to vendor-defined color modes (profiles)
+- Misc fixes and upstream changes.
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- Merge tag LA.UM.9.12.r1-15200-SMxx50.QSSI13.0 of CLO
+- mm: Clean-up
+- drivers: zram: Re-work
+- ARM64/defconfig: alioth: Disable CONFIG_MEMCG
+- Misc fixes and upstream changes.
+
+____________________________________________________________________________________________________
+
 2023-02-25:
 
 - parts: General improve HBM code
