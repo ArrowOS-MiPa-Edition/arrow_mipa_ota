@@ -1,3 +1,17 @@
+2023-07-31:
+
+- wifi: Enable Optimized Power Management
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- soc: qcom: ssr: Prevent kernel panic caused by modem crash and adsp crash
+- treewide: Revert some upstream commits (linux patch's / CLO)
+- HID: microsoft: Add rumble support to latest xbox controllers
+- Misc fixes and upstream changes.
+
+____________________________________________________________________________________________________
+
+
 2023-07-12:
 
 - parts: Add preference for time-based HBM disable
