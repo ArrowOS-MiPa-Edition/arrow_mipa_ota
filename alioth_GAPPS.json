@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1689181057,
-      "filename": "Arrow-v13.1-alioth-MiPa-20230712-GAPPS.zip",
-      "id": "f815d3c2d896ec92572021875e7103bca264bf71d53f95a68618d75d98b37352",
+      "datetime": 1690824238,
+      "filename": "Arrow-v13.1-alioth-MiPa-20230731-GAPPS.zip",
+      "id": "9c3079a029407aea0b788e9e2dbc59c2f5ede94200fb95119705b619cda97014",
       "romtype": "MiPa",
       "zip_type": "GAPPS",
-      "size": 1412426250,
-      "url": "https://sourceforge.net/projects/mipa-project/files/arrow-mipa/arrow-13.1/alioth/Arrow-v13.1-alioth-MiPa-20230712-GAPPS.zip/download",
+      "size": 1415871984,
+      "url": "https://sourceforge.net/projects/mipa-project/files/arrow-mipa/arrow-13.1/alioth/Arrow-v13.1-alioth-MiPa-20230731-GAPPS.zip/download",
       "version": "arrow-13.1"
     }
   ]
