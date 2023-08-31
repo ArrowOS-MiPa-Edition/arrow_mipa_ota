@@ -1,3 +1,13 @@
+2023-08-31:
+
+- power HAL: Fixed DOUBLE_TAP_TO_WAKE
+
+Kernel:
+- Fixed wired headphones with 3.5 jack via usb type-c adapter (kernel panic with reboot).
+
+____________________________________________________________________________________________________
+
+
 2023-08-28:
 
 Kernel:
