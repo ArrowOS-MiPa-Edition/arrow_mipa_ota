@@ -1,3 +1,18 @@
+2023-09-29:
+
+- sepolicy: Label idle_state sysfs nodes 
+- Include MiuiCamera for GAPPS buildtype 
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- Merge tag LA.UM.9.12.r1-16100-SMxx50.QSSI14.0 of CLO
+- Misc fixes and upstream changes.
+
+P.s. Leica (MIUI) Camera included only in GAPPS buildtype !!!
+
+____________________________________________________________________________________________________
+
+
 2023-08-31:
 
 - power HAL: Fixed DOUBLE_TAP_TO_WAKE
