@@ -1,3 +1,21 @@
+2023-10-21:
+
+- libinit: Set global ro.product.mod_device for CN model (fixed Leica Camera on Redmi K40)
+- CarrierConfigOverlay: Disable hide_enhanced_4g_lte_bool globally
+- CarrierConfigOverlay: Enable editable_enhanced_4g_lte_bool globally
+- CarrierConfigOverlay: Enable volte/wifi for Telefonica DE
+- CarrierConfigOverlay: Enable volte/vowifi for FR Orange
+- CarrierConfigOverlay: Enable volte/vowifi for some VN providers
+- CarrierConfigOverlay: Enable volte/vowifi for MY DiGi 
+- Misc fixes and upstream changes.
+
+Kernel:
+- Merge branch android-4.19-stable of android/kernel/common
+- Misc fixes and upstream changes.
+
+____________________________________________________________________________________________________
+
+
 2023-09-29:
 
 - sepolicy: Label idle_state sysfs nodes 
