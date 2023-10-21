@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1695971373,
-      "filename": "Arrow-v13.1-alioth-MiPa-20230929-VANILLA.zip",
-      "id": "72169d505b2c55133dad9afb13a894021a946824040189757ebae45dd082c6d8",
+      "datetime": 1697925221,
+      "filename": "Arrow-v13.1-alioth-MiPa-20231021-VANILLA.zip",
+      "id": "9ffa68be449b60c1be80881ebb4ea9433f732bf2a5cd401916313f2baa3feb9a",
       "romtype": "MiPa",
       "zip_type": "VANILLA",
-      "size": 1142784104,
-      "url": "https://sourceforge.net/projects/mipa-project/files/arrow-mipa/arrow-13.1/alioth/Arrow-v13.1-alioth-MiPa-20230929-VANILLA.zip/download",
+      "size": 1147432361,
+      "url": "https://sourceforge.net/projects/mipa-project/files/arrow-mipa/arrow-13.1/alioth/Arrow-v13.1-alioth-MiPa-20231021-VANILLA.zip/download",
       "version": "arrow-13.1"
     }
   ]
